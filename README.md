@@ -28,7 +28,7 @@ Jogo 3D no estilo **Roll a Ball** com um mapa em formato de **labirinto**. O jog
 
 ## Demonstração
 
-O vídeo https://youtu.be/Wgjgz8878aY?is=Lib7ATg6g7J6rb0H mostra uma partida: o contador sobe a cada quadradinho coletado, indo de 0 até 10 no trecho gravado.
+O vídeo https://youtu.be/Wgjgz8878aY?is=Lib7ATg6g7J6rb0H mostra uma partida: o contador sobe a cada quadradinho coletado, indo de 0 até 12 no trecho gravado.
 
 ## Regras resumidas
 
